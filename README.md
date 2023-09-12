@@ -22,10 +22,12 @@
 # Tecnologias usadas
 
   
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express, )](https://skillicons.dev)
 - HTML
 - CSS
 - JAVASCRIPT
 - NODE.JS
+- EXPRESS.JS
+- DOTENV
 - STRIPE
 - TIDIO
