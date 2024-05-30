@@ -1,4 +1,4 @@
-# Ecomerce de tiras de bronze
+# Ecomerce Fubamar
 <br> *O E-commerce Fubamar é um projeto em desenvolvimento que visa criar uma plataforma online para a venda de tiras de bronze.* </br>
 
 
