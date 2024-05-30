@@ -1,13 +1,11 @@
-# Ecomerce Fubamar
-**Desenvolvimento de um ecomerce de tiras de bronze funcional utilizando Node.js**
---------------------------------------------------------------------------------------
-*O E-commerce Fubamar é um projeto em desenvolvimento que visa criar uma plataforma online para a venda de tiras de bronze.*
+# Ecomerce de tiras de bronze
+<br> *O E-commerce Fubamar é um projeto em desenvolvimento que visa criar uma plataforma online para a venda de tiras de bronze.* </br>
 
 
 # Funcionalidades atuais
 -  Catálogo de Produtos
--  Checkout de Pagamento
--  Chat Bot para Atendimento
+-  Checkout de Pagamento (API STRIPE)
+-  Chat Bot para Atendimento (TIDIO)
 -  Responsivo e Dinâmico
 -  Página de Erro 404
 
@@ -22,12 +20,4 @@
 # Tecnologias usadas
 
   
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express, )](https://skillicons.dev)
-- HTML
-- CSS
-- JAVASCRIPT
-- NODE.JS
-- EXPRESS.JS
-- DOTENV
-- STRIPE
-- TIDIO
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,vscode )](https://skillicons.dev)
